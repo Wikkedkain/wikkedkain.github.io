@@ -73,7 +73,7 @@ var ircoder = (function() {
 				performLogin(params);
 			}
 				
-			$("body").append(buildUserSelection());
+			$("body").append(buildUserSelection(params));
 			$("#divUserSelection").dialog({
 				autoOpen: false,
 				//title: "User Selection",
