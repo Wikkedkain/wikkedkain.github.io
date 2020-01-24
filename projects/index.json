@@ -1,3 +1,5 @@
 [
-  { "name": "IRCoder Auto", "demo": "https://wikkedkain.github.io/js/IRCoder.js" }
+  { "name": "Morrowind Alchemy Tool", "demo": "https://jungle-baritone.glitch.me/" },
+  { "name": "Simple Socket.IO chat", "demo": "https://dot-energy.glitch.me/" },
+  { "name": "Simple Multiplayer Drawing Game", "demo": "https://hallowed-canid.glitch.me/" },
 ]
